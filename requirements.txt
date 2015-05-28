@@ -1,0 +1,5 @@
+Django==1.7
+gnureadline==6.3.3
+ipdb==0.8
+ipython==3.1.0
+selenium==2.45.0
