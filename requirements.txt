@@ -1,5 +1,4 @@
 Django==1.7
-gnureadline==6.3.3
 gunicorn==19.3.0
 ipdb==0.8
 ipython==3.1.0
